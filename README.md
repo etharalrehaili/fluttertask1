@@ -1,5 +1,3 @@
-# classtask1
-
 # Class Task - Building UI elements in Flutter ✨
 
 This is a Flutter Project with 4 Simple Cards 
